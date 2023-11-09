@@ -1,5 +1,3 @@
-Certainly! A well-structured README is essential for your project, as it provides information and instructions for others who may want to use or contribute to your web app. Here's a sample README for your "Shake to Play" web app:
-
 # Shake to Play Web App
 
 ![Shake to Play Demo](demo.gif)
