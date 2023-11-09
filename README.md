@@ -62,7 +62,7 @@ If you'd like to contribute to this project or have any suggestions, feel free t
 
 ## Contact
 
-For any questions or feedback, please contact [your.email@example.com](mailto:capwellmurimi@gmail.com).
+For any questions or feedback, please contact [capwellmurimi@gmail.com](mailto:capwellmurimi@gmail.com).
 
 Enjoy playing messages with "Shake to Play"!
 
