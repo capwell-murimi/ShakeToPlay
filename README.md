@@ -60,7 +60,7 @@ If you'd like to contribute to this project or have any suggestions, feel free t
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Capwell Murimi](https://github.com/capwell-murimi)
 
 ## Contact
 
